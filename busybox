@@ -1,0 +1,1 @@
+AT+CRSM=176,28542,0,0,11\n microcom /dev/ttyACM0
